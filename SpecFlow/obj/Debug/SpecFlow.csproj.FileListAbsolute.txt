@@ -1,0 +1,8 @@
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug\SpecFlow.dll.config
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug\SpecFlow.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache

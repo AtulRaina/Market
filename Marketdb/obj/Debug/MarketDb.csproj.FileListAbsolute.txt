@@ -1,0 +1,32 @@
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.dll.config
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\Logger.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\Logger.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\obj\Debug\MarketDb.csprojResolveAssemblyReference.cache
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\obj\Debug\Marketdb.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Marketdb\obj\Debug\Marketdb.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.dll.config
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\Marketdb.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\Logger.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\Logger.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.xml
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\bin\Debug\System.Data.SQLite.xml
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\obj\Debug\MarketDb.csprojResolveAssemblyReference.cache
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\obj\Debug\Marketdb.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Marketdb\obj\Debug\Marketdb.pdb

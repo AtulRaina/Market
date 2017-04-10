@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <pageControls>
+    <vendor>BestBuy</vendor>
+    <pageurl>http://bestbuy.com</pageurl>
+    <searchButton>gh-search-input</searchButton>
+    <searchclick>#header > div:nth-child(2) > div.primary-wrap > div.search-bar > form > button > span</searchclick>
+    <productname>#main-results > div.list-items > div:nth-child(1) > div > div.col-xs-6.list-item-postcard-column > div > div.sku-title > h4 > a</productname>
+    <productprice>#main-results > div.list-items > div:nth-child(1) > div > div.col-xs-3.list-item-price-column > div > div.list-item-price-content > div.priceblock-wrapper > div.price-block.priceblock-medium > div.pucks-and-price > div</productprice>
+    <pagelength>23</pagelength>
+    <productmaster>#main-results > div.list-items > div:nth-child(1) > div > div.col-xs-6.list-item-postcard-column > div > div.sku-title > h4 > a</productmaster>
+    <productmasterprice>#main-results > div.list-items > div:nth-child(1) > div > div.col-xs-3.list-item-price-column > div > div.list-item-price-content > div.priceblock-wrapper > div.price-block.priceblock-medium > div.pucks-and-price > div.medium-item-price</productmasterprice>
+  </pageControls>
+  <pageControls>
+    <vendor>amazon</vendor>
+    <pageurl>http://amazon.com</pageurl>
+    <searchButton>twotabsearchtextbox</searchButton>
+    <searchclick>#header > div:nth-child(2) > div.primary-wrap > div.search-bar > form > button > span</searchclick>
+    <productname>#result_0 > div > div > div > div.a-fixed-left-grid-col.a-col-right > div.a-row.a-spacing-small > a > h2</productname>
+    <productprice>#priceblock_ourprice</productprice>
+    <pagelength>16</pagelength>
+    <productmaster>#result_0 > div > div > div > div.a-fixed-left-grid-col.a-col-right > div.a-row.a-spacing-small > a > h2</productmaster>
+    <productmasterprice>#result_0 > div > div > div > div.a-fixed-left-grid-col.a-col-right > div:nth-child(3) > div.a-column.a-span7 > div.a-row.a-spacing-none > a > span > span > span</productmasterprice>
+  </pageControls>
+  <pageControls>
+    <vendor>WallMart</vendor>
+    <pageurl>http://walmart.com</pageurl>
+    <searchButton>global-search-input</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#tile-container > div:nth-child(1) > div > div > h4 > a</productname>
+    <productprice>#tile-container > div:nth-child(1) > div > div > div.tile-primary > div:nth-child(1) > div > span.price.price-display</productprice>
+    <pagelength>16</pagelength>
+    <productmaster>#tile-container > div:nth-child(x) > div > div > h4 > a</productmaster>
+    <productmasterprice>#tile-container > div:nth-child(x) > div > div > div.tile-primary > div:nth-child(1) > div > span.price.price-display</productmasterprice>
+  </pageControls>
+  <pageControls>
+    <vendor>kmart</vendor>
+    <pageurl>http://kmart.com</pageurl>
+    <searchButton>keyword</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#cards-holder > div:nth-child(1) > div.card-bottom > h3 > a</productname>
+    <productprice>#cards-holder > div:nth-child(1) > div.card-bottom > a:nth-child(1) > div > span.card-price.ng-binding.ng-scope.card-sale-price</productprice>
+    <pagelength>50</pagelength>
+    <productmaster>#cards-holder > div:nth-child(x) > div.card-bottom > h3 > a</productmaster>
+    <productmasterprice>#cards-holder > div:nth-child(x) > div.card-bottom > a:nth-child(1) > div > span.card-price.ng-binding.ng-scope.card-sale-price</productmasterprice>
+  </pageControls>
+
+  <pageControls>
+    <vendor>disney</vendor>
+    <pageurl>http://disneystore.com</pageurl>
+    <searchButton>searchTerms</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#productTiles > div:nth-child(1) > a > h3</productname>
+    <productprice>#productTiles > div:nth-child(1) > p</productprice>
+    <pagelength>96</pagelength>
+    <productmaster>#productTiles > div:nth-child(x) > a > h3</productmaster>
+    <productmasterprice>#productTiles > div:nth-child(x) > p</productmasterprice>
+  </pageControls>
+  
+    <pageControls>
+    <vendor>target</vendor>
+    <pageurl>http://target.com</pageurl>
+    <searchButton>search</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#slp > section:nth-child(2) > div > div > ul > li:nth-child(1) > div.product--link > div > p > a</productname>
+    <productprice>#slp > section:nth-child(2) > div > div > ul > li:nth-child(1) > div.product--link > div > div.price > span:nth-child(1)</productprice>
+    <pagelength>24</pagelength>
+    <productmaster>#slp > section:nth-child(2) > div > div > ul > li:nth-child(x) > div.product--link > div > p > a</productmaster>
+    <productmasterprice>#slp > section:nth-child(2) > div > div > ul > li:nth-child(x) > div.product--link > div > div.price > span</productmasterprice>
+  </pageControls>
+
+
+  <pageControls>
+    <vendor>homedepot</vendor>
+    <pageurl>http://homedepot.com</pageurl>
+    <searchButton>headerSearch</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#products > div > div:nth-child(1) > div > div.pod-plp__description > a</productname>
+    <productprice>#products > div > div:nth-child(1) > div > div.price__wrapper > div</productprice>
+    <pagelength>24</pagelength>
+    <productmaster>#products > div > div:nth-child(x) > div > div.pod-plp__description > a</productmaster>
+    <productmasterprice>#products > div > div:nth-child(x) > div > div.price__wrapper > div</productmasterprice>
+  </pageControls>
+
+  <pageControls>
+    <vendor>costco</vendor>
+    <pageurl>http://costco.com</pageurl>
+    <searchButton>search-field</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>//*[@id="search-results"]/ctl:cache/div[3]/div[1]/a/div/p[2]</productname>
+    <productprice>//*[@id="search-results"]/ctl:cache/div[3]/div[1]/a/div/div[1]/div[1]</productprice>
+    <pagelength>11</pagelength>
+    <productmaster>//*[@id="search-results"]/div[4]/div/ctl:cache/div[3]/div[replace]/a/div[2]/div[1]/p[2]</productmaster>
+    <productmasterprice>//*[@id="search-results"]/div[4]/div/ctl:cache/div[3]/div[replace]/a/div[2]/div[1]/div[1]/div[1]</productmasterprice>
+  </pageControls>
+
+  <pageControls>
+    <vendor>OverStock</vendor>
+    <pageurl>http://www.overstock.com/</pageurl>
+    <searchButton>search-input</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>//*[@id="1"]/div/div[1]/div/div[4]/a</productname>
+    <productprice>//*[@id="1"]/div/div[1]/div/div[4]/a/div[2]/div[1]</productprice>
+    <pagelength>60</pagelength>
+    <productmaster>//*[@id="1"]/div/div[replace]/div/div[4]/a</productmaster>
+    <productmasterprice>//*[@id="1"]/div/div[replace]/div/div[4]/a/div[2]/div[1]</productmasterprice>
+  </pageControls>
+
+
+
+<pageControls>
+    <vendor>AliExpress</vendor>
+    <pageurl>http://www.aliexpress.com/</pageurl>
+    <searchButton>search-key</searchButton>
+    <searchclick>#tile-container > div:nth-child(1) > div > div > h4 > a</searchclick>
+    <productname>#list-items > li:nth-child(1) > div.right-block.util-clearfix > div > div.detail > h3 > a</productname>
+    <productprice>#list-items > li:nth-child(1) > div.right-block.util-clearfix > div > div.info.infoprice > span > span.value</productprice>
+    <pagelength>43</pagelength>
+    <productmaster>#list-items > li:nth-child(x) > div.right-block.util-clearfix > div > div.detail > h3 > a</productmaster>
+    <productmasterprice>#list-items > li:nth-child(x) > div.right-block.util-clearfix > div > div.info.infoprice > span > span.value</productmasterprice>
+  </pageControls>
+</root>

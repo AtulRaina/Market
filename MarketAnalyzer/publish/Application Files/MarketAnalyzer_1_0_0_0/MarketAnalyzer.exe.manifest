@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MarketAnalyzer.exe" version="1.0.0.0" publicKeyToken="95809d4859104a68" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MarketAnalyzer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="MarketAnalyzer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MarketAnalyzer.exe" size="9728">
+      <assemblyIdentity name="MarketAnalyzer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bgJhQ7SdfgU4BO6HResIyBhk9Vc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MarketCore.dll" size="6656">
+      <assemblyIdentity name="MarketCore" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Lzds/+cKR42Gng7RjRixj23N3dY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WebDriver.dll" size="1530880">
+      <assemblyIdentity name="WebDriver" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>g6AebOizSMYjG3TrUqkUAcgBozU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=KEYSIGHT\aturaina" issuerKeyHash="9fad1d01a05e136571edb44a4c89c0acd0ecfee9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>b0sTtf3MvGjVsYx8FQe6wHrQuYk=</DigestValue></Reference></SignedInfo><SignatureValue>edpHaOTcVYdqljCYdU/auR7phITUldZf7oQnKgqDu0Jn4kR2jUos2t/odwiea3MuPeaHfN7vfIeVcYWd4Cf2Vd21NwbFUYoIW3JQrN2oQ3dZm5phBaSTSfWeDmkAao+qJ74V/IoMM6Ilx92QshY3F6B2lkpDpGZWykk3zAk5s/0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zx319s0dcrTamFk2aM1YOOoDeAV64S/9OZwpHh85xxuaQd2dYrt6sT5KkpW+EKhqGOlUzRM5CU+IjTM2Elas8RY2I6UkWdqZKZVUbzwx1GEDqDEnlAIw4xMRfcwiraYRajk1h0hEWEZsX1jVBkicBTo1os69EHFoAd+n3/HJjt8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="89b9d07ac0ba07157c8cb1d568bcccfdb5134b6f" Description="" Url=""><as:assemblyIdentity name="MarketAnalyzer.exe" version="1.0.0.0" publicKeyToken="95809d4859104a68" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KEYSIGHT\aturaina</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BCwt7HtfqtYdBrLz67KjANT5xTQ=</DigestValue></Reference></SignedInfo><SignatureValue>BSzVE8SuCTXUPjUIsaxnQE4BOt8O6DwyIilTv66MZR2oZTwP9T8YKGJGy25Luc5BqQNZTiJkhknEoUkhBEdRJFimlh/rXA28bVb+jSaPg4xJpHZpPaZdS5TcP3MuwVGzaABrzfc0K/HiWvVC8suD8rSWbF1PavjtPIhQw9Xql4U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zx319s0dcrTamFk2aM1YOOoDeAV64S/9OZwpHh85xxuaQd2dYrt6sT5KkpW+EKhqGOlUzRM5CU+IjTM2Elas8RY2I6UkWdqZKZVUbzwx1GEDqDEnlAIw4xMRfcwiraYRajk1h0hEWEZsX1jVBkicBTo1os69EHFoAd+n3/HJjt8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQEuA8Rol5qqxEAD5meV33wjANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIASwBFAFkAUwBJAEcASABUAFwAYQB0AHUAcgBhAGkAbgBhMB4XDTE2MTEwODIwNDYwOFoXDTE3MTEwOTAyNDYwOFowLTErMCkGA1UEAx4iAEsARQBZAFMASQBHAEgAVABcAGEAdAB1AHIAYQBpAG4AYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzx319s0dcrTamFk2aM1YOOoDeAV64S/9OZwpHh85xxuaQd2dYrt6sT5KkpW+EKhqGOlUzRM5CU+IjTM2Elas8RY2I6UkWdqZKZVUbzwx1GEDqDEnlAIw4xMRfcwiraYRajk1h0hEWEZsX1jVBkicBTo1os69EHFoAd+n3/HJjt8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAQpZKTKhWaVKORTc2TmazbBuxy/uVDomNa7Q+l4TxeSa2WcHP9RHJqxMVQdjTe9nxO9Hr/szPOD3veO6RZXpO2lBzase8OaJ1++8xd88jWeZxkzmWHnvYXBNCNsPDkQRCWbY6DUJcvk1Lg9q/4EZ3WaZFKuhg529ppzvBjTFvBJA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

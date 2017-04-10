@@ -1,0 +1,9 @@
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Logger\bin\Debug\Logger.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Logger\bin\Debug\Logger.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Logger\obj\Debug\Logger.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\Logger\obj\Debug\Logger.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\bin\Debug\Logger.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\bin\Debug\Logger.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\Logger.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\Logger.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\MarketLogger.csprojResolveAssemblyReference.cache

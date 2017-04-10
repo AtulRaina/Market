@@ -1,0 +1,36 @@
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebControl.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\MarketCore.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\MarketCore.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Logger.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Marketdb.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.Support.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\System.Data.SQLite.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Logger.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Marketdb.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.Support.pdb
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\WebDriver.Support.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\bin\Debug\System.Data.SQLite.xml
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.csprojResolveAssemblyReference.cache
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.dll
+C:\Users\aturaina\Documents\Visual Studio 2010\Projects\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\WebControl.xml
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\MarketCore.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\MarketCore.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\Logger.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\Marketdb.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\System.Data.SQLite.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\Logger.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\Marketdb.pdb
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Debug\System.Data.SQLite.xml
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.csprojResolveAssemblyReference.cache
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.dll
+C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.pdb
