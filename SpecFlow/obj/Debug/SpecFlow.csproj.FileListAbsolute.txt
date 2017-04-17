@@ -6,3 +6,6 @@ C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\bin\Debug
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.dll
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.pdb
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\SpecFlow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache
+C:\Git\MarketAnalyzer\Market\SpecFlow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache
+C:\Git\MarketAnalyzer\Market\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Git\MarketAnalyzer\Market\SpecFlow\obj\Debug\SpecFlow.pdb

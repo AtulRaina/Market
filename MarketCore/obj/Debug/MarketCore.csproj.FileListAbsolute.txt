@@ -34,3 +34,15 @@ C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\bin\Deb
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.csprojResolveAssemblyReference.cache
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.dll
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\MarketCore\obj\Debug\MarketCore.pdb
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\WebControl.xml
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\MarketCore.dll
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\MarketCore.pdb
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\Logger.dll
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\Marketdb.dll
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\System.Data.SQLite.dll
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\Logger.pdb
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\Marketdb.pdb
+C:\Git\MarketAnalyzer\Market\MarketCore\bin\Debug\System.Data.SQLite.xml
+C:\Git\MarketAnalyzer\Market\MarketCore\obj\Debug\MarketCore.csprojResolveAssemblyReference.cache
+C:\Git\MarketAnalyzer\Market\MarketCore\obj\Debug\MarketCore.dll
+C:\Git\MarketAnalyzer\Market\MarketCore\obj\Debug\MarketCore.pdb

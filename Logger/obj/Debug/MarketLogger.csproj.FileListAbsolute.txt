@@ -7,3 +7,8 @@ C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\bin\Debug\L
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\Logger.dll
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\Logger.pdb
 C:\Users\atulr\Downloads\Source_MarketAnalyzer\MarketAnalyzer\Logger\obj\Debug\MarketLogger.csprojResolveAssemblyReference.cache
+C:\Git\MarketAnalyzer\Market\Logger\bin\Debug\Logger.dll
+C:\Git\MarketAnalyzer\Market\Logger\bin\Debug\Logger.pdb
+C:\Git\MarketAnalyzer\Market\Logger\obj\Debug\MarketLogger.csprojResolveAssemblyReference.cache
+C:\Git\MarketAnalyzer\Market\Logger\obj\Debug\Logger.dll
+C:\Git\MarketAnalyzer\Market\Logger\obj\Debug\Logger.pdb
