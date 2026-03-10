@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <style>
+      .box { fill: #f6f8fa; stroke: #2c3e50; stroke-width: 2; rx: 10; }
+      .label { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 14px; fill: #2c3e50; }
+      .title { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 18px; font-weight: bold; }
+      .arrow { stroke: #2c3e50; stroke-width: 3; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,4 L0,8 Z" fill="#2c3e50" />
+    </marker>
+  </defs>
+
+  <text x="50%" y="35" text-anchor="middle" class="title">Market Analyzer Architecture</text>
+
+  <!-- UI Layer -->
+  <rect x="120" y="80" width="560" height="90" class="box" />
+  <text x="150" y="110" class="label">UI Layer</text>
+  <text x="150" y="135" class="label">(MarketAnalyzer WPF)</text>
+  <text x="150" y="155" class="label">MainWindow → PageController</text>
+
+  <!-- Core Layer -->
+  <rect x="120" y="200" width="560" height="140" class="box" />
+  <text x="150" y="235" class="label">Core / Scraper Layer</text>
+  <text x="150" y="260" class="label">MarketCore/{Vendor}.cs</text>
+  <text x="150" y="285" class="label">PageController + WebControl.xml</text>
+  <text x="150" y="310" class="label">MarektPriceUpdater</text>
+
+  <!-- Data Layer -->
+  <rect x="120" y="360" width="560" height="90" class="box" />
+  <text x="150" y="395" class="label">Data Layer</text>
+  <text x="150" y="420" class="label">Marketdb / SQLite (PriceTable, MasterProductTable)</text>
+
+  <!-- Logger -->
+  <rect x="610" y="320" width="150" height="120" class="box" />
+  <text x="635" y="355" class="label">Logger</text>
+  <text x="635" y="380" class="label">Logger/Logger.cs</text>
+  <text x="635" y="405" class="label">MarketLog.log</text>
+
+  <!-- Arrows -->
+  <path class="arrow" d="M400 170 L400 200" />
+  <path class="arrow" d="M400 340 L400 360" />
+  <path class="arrow" d="M540 250 L560 250" />
+  <path class="arrow" d="M560 250 L560 340" />
+</svg>
